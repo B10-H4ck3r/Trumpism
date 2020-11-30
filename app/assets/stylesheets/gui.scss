@@ -6,7 +6,16 @@
 body
 {
   padding-top: 60px;
-  background-color: white;
+  background-image: url('flg.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.agenda_div
+{
+  background-color: rgba(0,0,0,0.8);
+  padding: 20px;
 }
 
 section
@@ -22,6 +31,7 @@ textarea
 .center
 {
   text-align: center;
+  background-color: rgba(0,0,0,0.8);
 }
 
 .center h1

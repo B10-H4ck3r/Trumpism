@@ -13,8 +13,8 @@
       font-family: 'Sansita Swashed', cursive;
 */
 
-/* Donate Page Font Styling */
-.donate_h1_ttle
+/* Contact Page Font Styling */
+.contact_h1_ttle
 {
   font-family: 'Cinzel', serif;
   font-size: 35px;
@@ -22,18 +22,30 @@
   text-shadow: 5px 5px 7px #000;
   color: #000;
 }
+
+/* Donate Page Font Styling */
+.donate_h1_ttle
+{
+  font-family: 'Cinzel', serif;
+  font-size: 35px;
+  text-align: center;
+  text-shadow: 5px 5px 7px #C0C0C0;
+  color: #FFF;
+}
 .donate_tble_h1
 {
   font-family: 'Goldman', cursive;
   font-size: 20px;
-  text-shadow: 5px 5px 10px #000;
+  text-shadow: 5px 5px 10px #C0C0C0;
   text-align: left;
+  color: #FFF;
 }
 .donate_p_bio
 {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 20px;
   text-align: center;
+  color: #FFF;
 }
 
 /* Members Page Font Styling */
@@ -42,8 +54,15 @@
   font-family: 'Cinzel', serif;
   font-size: 35px;
   text-align: center;
-  text-shadow: 5px 5px 7px #000;
-  color: #000;
+  text-shadow: 5px 5px 7px #C0C0C0;
+  color: #FFF;
+}
+.members_p_bio
+{
+  font-family: 'Goldman', cursive;
+  font-size: 20px;
+  color: #FFF;
+  text-align: center;
 }
 
 /* About Page Font Styling */
@@ -52,49 +71,53 @@
   font-family: 'Cinzel', serif;
   font-size: 35px;
   text-align: center;
-  text-shadow: 5px 5px 7px #000;
-  color: #000;
+  text-shadow: 5px 5px 7px #C0C0C0;
+  color: #FFF;
 }
 .about_h2_hdr
 {
   font-family: 'Castoro', serif;
   font-size: 25px;
-  color: black;
+  color: #FFF;
   text-align: left;
-  text-shadow: 5px 5px 10px #000;
+  text-shadow: 5px 5px 10px #C0C0C0;
 }
 .about_p_bio
 {
   font-family: 'Sansita Swashed', cursive;
   font-size: 20px;
   text-align: center;
+  color: #FFF;
 }
 .about_p_bio1
 {
   font-family: 'Goldman', cursive;
   font-size: 20px;
   text-align: center;
+  color: #FFF;
 }
 .about_p_bio2
 {
   font-family: 'Castoro', serif;
   font-size: 20px;
   text-align: center;
+  color: #FFF;
 }
 
 /* Home Page Font Styling */
 .home_h1_title
 {
-  font-family: 'nanum Myeongjo', serif;
+  font-family: 'Cinzel', serif;
   font-size: 35px;
   text-align: center;
-  text-shadow: 7px 7px 9px #000;
+  text-shadow: 7px 7px 9px #FFF;
 }
 .home_h2_intro
 {
   font-family: 'Cinzel', serif;
   font-size: 20px;
   text-shadow: 5px 5px 7px #000;
+  color: #FFF;
 }
 
 /* Agenda Page Font Styling */
@@ -104,25 +127,25 @@
   font-size: 35px;
   text-align: center;
   text-shadow: 5px 5px 7px #000;
-  color: #000;
+  color: #FFF;
 }
 .agenda_p_intro
 {
   font-family: 'Castoro', serif;
   font-size: 20px;
   text-align: center;
-  color: #000;
+  color: #FFF;
 }
 .agenda_h2_title
 {
   font-family: 'Goldman', cursive;
-  color: #000;
+  color: #FFF;
   text-align: left;
 }
 .agenda_p_bio
 {
   font-family: 'Cinzel', serif;
-  color: black;
+  color: #FFF;
   text-align: center;
   font-size: 20px;
 }
